@@ -21,8 +21,9 @@ Each folder has a variety of packages and tools available to run different kinds
 
 ### Clumped matrix algorithms
 This allows for clumping to occur in random matrix algorithms such that there is an element of non random allocation of class
+
 | filename                     | Description                                                             |
-|------------------------------|------------------|------------------------------------------------------|
+|------------------------------|-------------------------------------------------------------------------|
 | clumped_randi_land.m         |clumping algorithm applied to Uniformly distributed pseudorandom integers|
 | clumped_sprand_land          |clumping algorithm applied to Sparse uniformly distributed random matrix |
 
@@ -45,8 +46,9 @@ These Matlab functions allows you to test noise functions to generate artificial
 
 ### Random matrix algorithms
 This uses the random matrix functions within matlab to extract different landscape types. Once again they are exported as ASCII.
+
 | filename                     | Description                                       |
-|------------------------------|------------------|--------------------------------|
+|------------------------------|---------------------------------------------------|
 | randi_land.m                 |Uniformly distributed pseudorandom integers        |
 | sprand_land.m                |Sparse uniformly distributed random matrix         |
 | rand_land.m                  |Uniformly distributed random numbers               |
