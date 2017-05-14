@@ -1,0 +1,18 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0A2A-4684
+
+ Directory of C:\Users\samapriya\Box Sync\IUB\Paper Discussions\Deltas Project Edmond NSF 2016\Git Codes\Synthetic LandScape Generation
+
+05/13/2017  11:07 PM    <DIR>          .
+05/13/2017  11:07 PM    <DIR>          ..
+05/13/2017  10:33 PM    <DIR>          Clumped matrix algorithms
+05/13/2017  11:07 PM                 0 filename.txt
+05/13/2017  10:30 PM    <DIR>          Fragmentation Aggregation Algorithms
+04/08/2017  09:41 PM            11,347 LICENSE
+05/13/2017  11:04 PM    <DIR>          NlmPy applications
+05/13/2017  10:23 PM    <DIR>          Noise Function Terrain Generation
+05/13/2017  10:22 PM    <DIR>          Random matrix algorithms
+05/13/2017  10:27 PM    <DIR>          Random matrix to Video
+05/13/2017  10:48 PM             3,977 README.md
+               3 File(s)         15,324 bytes
+               8 Dir(s)  367,025,676,288 bytes free

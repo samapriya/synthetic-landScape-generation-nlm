@@ -1,0 +1,3 @@
+These functions allows you to test noise functions to generate artificial terrains using noise function executables.
+Source codes for the c++ files are included in the adjoining folder and were provided kindly by Travis Archer for open use.
+The codes create a bmp output which are then modified to create binned responses and landscape classes as needed
