@@ -1,4 +1,7 @@
 # Synthetic LandScape Generation
+
+[![DOI](https://zenodo.org/badge/91218285.svg)](https://zenodo.org/badge/latestdoi/91218285)
+
 While working on synthetic landscape generation or neutral landscape generation, it it interesting to try out different randomizing and clustering algorithms. The ones included here were part of the same experiments. The outputs are generally preceded by a header so that the ASCII files can be read easily in a GIS software such as ArcMap. The output file is ASCII type since this is commonly accepted by multiple tools. The number of rows and columns can be changed as can the no data value which for now is set to a 16 bit signed integer output. There are codes included to generate a video using landscapes as frames within the output file. Further work can include the nlmpy module 
 
 ## Table of contents
